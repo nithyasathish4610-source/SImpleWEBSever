@@ -37,9 +37,22 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-
+```
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>My Web Page</title>
+    </head>
+    <body>
+        <h1>Name: Nithya sri</h1>
+        <p>Reference No: 26010142 </p>
+    </body>
+    </html>
+```
 
 ## OUTPUT:
+<img width="1096" height="525" alt="Screenshot 2026-09-28 201343" src="https://github.com/user-attachments/assets/6f800c09-aa0f-464a-83fb-175cafc3c7f3" />
+<img width="606" height="163" alt="Screenshot 2026-09-28 201354" src="https://github.com/user-attachments/assets/6eec5b01-2f46-4ea4-9f1a-162545b9b5e2" />
 
 
 ## RESULT:
